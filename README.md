@@ -1,1 +1,2 @@
-# python-snippets
+Sython-Snippets
+Some small python programs for trying things out.
